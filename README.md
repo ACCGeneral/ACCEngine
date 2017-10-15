@@ -1,10 +1,10 @@
-# SpaceCombatV2
+# ACCEngine
 
-This is the second and much imporved version of a space combat game that I have made with my own engine (ACC engine) with C++
+This is a base template for the ACCEngine I have created.
 
-## Aim of the GAME
+## Inspiration 
 
-The aim of the game is to destroy the enemy capital ship before the enemy destroys yours. You the player control a fighter.
+I did this to challenge myself to create an engine and at the same time, expand my knowlage and learn from the experience 
 
 ## Licence
 
