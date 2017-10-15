@@ -1,6 +1,6 @@
 # ACCEngine
 
-This is a base template for the ACCEngine I have created.
+This is a base template for the Engine I have created.
 
 ## Inspiration 
 
